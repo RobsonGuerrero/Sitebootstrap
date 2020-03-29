@@ -1,4 +1,12 @@
-.card-title {
-border-left-color: blueviolet;
+.card-body {
+background-color: blueviolet;
+}
+
+.card-title{
+    background-color: chartreuse;
+}
+
+.card-text{
+background-color:white;
 
 }
